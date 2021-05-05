@@ -39,7 +39,7 @@ public class ClassifierFloatMobileNet extends Classifier {
     // see build.gradle for where to obtain this file. It should be auto
     // downloaded into assets.
 
-    // INSECT_EN model vs  "mobilenet_v1_1.0_224.tflite";
+    // INSECT_EN model
     return "model.tflite";
   }
 }
