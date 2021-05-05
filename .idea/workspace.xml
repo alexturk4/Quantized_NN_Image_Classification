@@ -29,28 +29,10 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EXPLORE_THE_CODE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/classifydemo_img1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/classifydemo_img2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/classifydemo_img4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/classifydemo_img5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/classifydemo_img6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/classifydemo_img7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/classifydemo_img8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_support/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib_support/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_task_api/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lib_task_api/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib_task_api/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierFloatMobileNet.java" beforeDir="false" afterPath="$PROJECT_DIR$/lib_task_api/src/main/java/org/tensorflow/lite/examples/classification/tflite/ClassifierFloatMobileNet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/build/intermediates/incremental/packageDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/models/build/intermediates/incremental/packageDebugAssets/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/build/intermediates/library_assets/debug/out/mobilenet_v1_1.0_224.tflite" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/download.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/src/main/assets/mobilenet_v1_1.0_224.tflite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/models/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -86,8 +68,8 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="TFLite_Image_Classification_Demo_App.app" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Android_Image_Classification.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -181,29 +163,33 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="260" y="278" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1618618331993" />
-    <state width="1876" height="222" key="GridCell.Tab.0.bottom" timestamp="1619679698174">
+    <state width="1876" height="222" key="GridCell.Tab.0.bottom" timestamp="1620245123003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1619679698174" />
-    <state width="1876" height="222" key="GridCell.Tab.0.center" timestamp="1619679698173">
+    <state width="1876" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620245123003" />
+    <state width="1876" height="222" key="GridCell.Tab.0.center" timestamp="1620245123003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1619679698173" />
-    <state width="1876" height="222" key="GridCell.Tab.0.left" timestamp="1619679698173">
+    <state width="1876" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620245123003" />
+    <state width="1876" height="222" key="GridCell.Tab.0.left" timestamp="1620245123003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1619679698173" />
-    <state width="1876" height="222" key="GridCell.Tab.0.right" timestamp="1619679698174">
+    <state width="1876" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620245123003" />
+    <state width="1876" height="222" key="GridCell.Tab.0.right" timestamp="1620245123003">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1619679698174" />
+    <state width="1876" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620245123003" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1620245021677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1620245021677" />
     <state x="667" y="253" width="888" height="534" key="find.popup" timestamp="1620242796971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="253" width="888" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620242796971" />
-    <state x="775" y="381" width="672" height="678" key="search.everywhere.popup" timestamp="1620242876635">
+    <state x="775" y="381" width="672" height="678" key="search.everywhere.popup" timestamp="1620245039103">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="775" y="381" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620242876635" />
+    <state x="775" y="381" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1620245039103" />
   </component>
 </project>
