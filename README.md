@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project uses a quantized neural network for performing image classification using deep learning on resource limited hardware. It uses the Tensorflow Lite library and the EfficientNet and MobileNet models which are optimized for running on devices using minimal power and it an android application.
+This is an android application which uses a quantized neural network for performing image classification using deep learning on resource limited hardware. It uses the Tensorflow Lite library and the EfficientNet and MobileNet models which are optimized for running on devices with minimal power and resources
 
 ## Project Abstract
 
