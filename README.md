@@ -1,15 +1,12 @@
-# ANDROID IMAGE CLASSIFICATION 
+# Quantized Neural Network Image Classification
 
 
 ## Project Overview
 
-The project has 3 models based on EfficientNet and 1 model based off MobileNet. EfficientNet has higher accuracy than MobileNet.
+This project uses a quantized neural network for performing image classification using deep learning on resource limited hardware. It uses the Tensorflow Lite library and the EfficientNet and MobileNet models which are optimized for running on devices using minimal power and it an android application.
 
+## Project Abstract
 
-ImageNet_EN1
-ImageNet_EN2
-ImageNet_MN
-Insect_EN
-
+The task of classifying images is a growing field in machine learning with the potential to be applied to many real world problems, but its resource intense nature has limited its usage on computationally limited devices such as smartphones. The objective of this project is to harness the power of deep learning but deploy it into a form factor that enables an Android mobile application to accurately and quickly classify images of routine objects. By using quantized neural networks and transfer learning in Tensorflow Lite, we are able to create a powerful yet lightweight deep learning image classification model that can be run locally on an Android device. This architecture can be similarly used on other resource-limited hardware such as IoT or embedded systems and can be easily applied to many other image classification problems.![image](https://user-images.githubusercontent.com/44556642/140950118-06311beb-5e58-4f49-ba6e-85036c93379c.png)
 
 
